@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: DevTomm
+name: DevTom
 # Short bio or description (displayed in the header)
 description: A Beginning Web Developer
 
@@ -20,12 +20,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: Nexive/nexive.github.io
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  rss: Hello World x3# just type anything here for a working RSS icon
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/

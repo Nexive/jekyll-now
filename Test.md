@@ -2,6 +2,6 @@
 title: test
 layout: page
 sitemap: false
-permalink: /test/
+permalink: /Test/
 ---
 Test

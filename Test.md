@@ -1,1 +1,8 @@
-Title: testLayout: pageSitemap: falsePermalink: test
+title: test
+layout: page
+sitemap: false
+permalink: test
+
+---
+
+Test

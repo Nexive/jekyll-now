@@ -1,8 +1,7 @@
+---
 title: test
 layout: page
 sitemap: false
-permalink: test
-
+permalink: /test/
 ---
-
 Test
